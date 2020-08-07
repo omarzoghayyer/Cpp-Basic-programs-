@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		437742F824DBC06A0099A42A /* oamr */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = oamr; sourceTree = BUILT_PRODUCTS_DIR; };
+		437742F824DBC06A0099A42A /* RunT */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RunT; sourceTree = BUILT_PRODUCTS_DIR; };
 		437742FB24DBC06A0099A42A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,7 +49,7 @@
 		437742F924DBC06A0099A42A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				437742F824DBC06A0099A42A /* oamr */,
+				437742F824DBC06A0099A42A /* RunT */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		437742F724DBC06A0099A42A /* oamr */ = {
+		437742F724DBC06A0099A42A /* RunT */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 437742FF24DBC06A0099A42A /* Build configuration list for PBXNativeTarget "oamr" */;
+			buildConfigurationList = 437742FF24DBC06A0099A42A /* Build configuration list for PBXNativeTarget "RunT" */;
 			buildPhases = (
 				437742F424DBC06A0099A42A /* Sources */,
 				437742F524DBC06A0099A42A /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = oamr;
+			name = RunT;
 			productName = oamr;
-			productReference = 437742F824DBC06A0099A42A /* oamr */;
+			productReference = 437742F824DBC06A0099A42A /* RunT */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				437742F724DBC06A0099A42A /* oamr */,
+				437742F724DBC06A0099A42A /* RunT */,
 			);
 		};
 /* End PBXProject section */
@@ -263,7 +263,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		437742FF24DBC06A0099A42A /* Build configuration list for PBXNativeTarget "oamr" */ = {
+		437742FF24DBC06A0099A42A /* Build configuration list for PBXNativeTarget "RunT" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4377430024DBC06A0099A42A /* Debug */,

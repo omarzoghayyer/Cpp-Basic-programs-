@@ -12,10 +12,14 @@
 using namespace std;
 int main()
 {
-    cout << "there once was a man name omar" << endl;
-    cout << "  he was 70 years old"  << endl;
-    cout << "he likes the name omar" << endl;
-    cout << "but did  not like being 70"  << endl;
-
+    string characterName = "Omar";
+    int charcterAge;
+    
+    charcterAge = 35;
+    cout << "there once was a man named " <<  characterName << endl;
+    cout << " he was " << charcterAge <<  " years old"  << endl;
+    cout << "he likes the name " << characterName << endl;
+    cout << "but did  not like being " << charcterAge  << endl;
+    
     return 0;
 }
