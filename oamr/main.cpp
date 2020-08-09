@@ -19,13 +19,14 @@ int main()
     cout << "Enter first number: ";
     cin >> num1;
     
-    cout << " Enter second Number: ";
+    std::cout << " Enter second Number: ";
     cin >> num2;
     
     cout << "Total is: " << num1 + num2 << endl;
     
     return 0;
 }
+
 
 
 //int main ()
